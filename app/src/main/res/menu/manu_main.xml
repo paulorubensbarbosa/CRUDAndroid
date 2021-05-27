@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/groupUnic">
+        <item android:id="@+id/menu_lista"
+            android:title="Lista Hqs"
+            app:showAsAction="always"
+            ></item>
+        <item android:id="@+id/menu_cadastrar"
+            android:title="Cadastrar Hq"></item>
+        <item android:id="@+id/menu_sobre"
+            android:title="Sobre"></item>
+        <item android:id="@+id/menu_social"
+            android:title="Social"></item>
+
+
+    </group>
+
+
+</menu>
